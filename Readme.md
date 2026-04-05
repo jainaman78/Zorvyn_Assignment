@@ -72,7 +72,7 @@ Run the server
 npm run dev
 Server runs on:
 
-http://localhost:5000
+https://zorvyn-assignment-hxlp.onrender.com/
 Assumptions
 Roles are predefined (admin, analyst, viewer)
 Only admin can modify records and users
