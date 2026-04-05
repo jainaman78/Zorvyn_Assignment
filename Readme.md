@@ -42,6 +42,7 @@ DELETE /api/records/:id → Delete record (Admin)
 
 ## Dashboard
 GET /api/dashboard/summary → Income, expense, balance
+
 GET /api/dashboard/category → Category-wise totals
 GET /api/dashboard/monthly → Monthly trends
 GET /api/dashboard/recent → Recent transactions
